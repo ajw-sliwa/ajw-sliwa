@@ -8,7 +8,7 @@ Hope you find this interesting 🎷
 <br><br>
 
 ## My Portfolio 👀
-[<img align="middle" alt="portfolio" src="https://img.shields.io/badge/ajws-portfolio-fff173?&style=plastic" height="45" style="vertical-align:top; margin:4px">](https://ajws-portfolio.herokuapp.com/)
+<a href="https://ajws-portfolio.herokuapp.com/" target="_blank"><img align="middle" alt="portfolio" src="https://img.shields.io/badge/ajws-portfolio-fff173?&style=plastic" height="45" style="vertical-align:top; margin:4px"></a>
 <br><br>
 
 ## Connect with me 📫
