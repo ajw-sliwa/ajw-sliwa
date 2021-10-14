@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 I am a beginner back-end Python developer from Poland. 
 On my profile you can find:
 - Web app created using Django 🎬
@@ -7,14 +7,14 @@ On my profile you can find:
 Hope you find this interesting 🎷
 <br><br>
 
-
+## My Portfolio 👀
+[<img align="middle" alt="portfolio" src="https://img.shields.io/badge/ajws-portfolio-fff173?&style=plastic" height="45" style="vertical-align:top; margin:4px">](https://ajws-portfolio.herokuapp.com/)
+<br><br>
 
 ## Connect with me 📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&logoColor=white&style=plastic" height="30" style="vertical-align:top; margin:4px">](https://www.linkedin.com/)
 <a href="mailto:ajw.sliwa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f2f2f2?logo=gmail&logoColor=ffed66&style=plastic" height="30" style="vertical-align:top; margin:4px"></a>
 <br><br>
-
-
 
 ## Languages and frameworks I'm familiar and learning 🌱
 <p align="center">
@@ -29,14 +29,11 @@ Hope you find this interesting 🎷
   <img src="https://img.shields.io/badge/-GIT-17e33c?logo=git&logoColor=white&style=plastic" alt="GIT" height="30" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/-Flask-white?logo=flask&logoColor=black&style=plastic" alt="Flask" height="30" style="vertical-align:top; margin:4px">
 </p>
-<br>
+<br><br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajws-gh&theme=default)
   
-
-
-
 <!--
 **ajws-gh/ajws-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
