@@ -4,8 +4,15 @@ On my profile you can find:
 - Web app created using Django 
 - Platform game made with Pygame 
 
-## Connect with me 
+## Connect with me 📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)
+
+<!-- Languages and frameworks I'm familiar and learning: -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajws-gh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **ajws-gh/ajws-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
