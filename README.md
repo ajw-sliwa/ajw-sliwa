@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a novice back-end Python developer from Poland. 
+I am a beginner back-end Python developer from Poland. 
 On my profile you can find:
 - Web app created using Django 
 - Platform game made with Pygame 
