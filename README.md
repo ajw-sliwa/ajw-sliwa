@@ -9,7 +9,7 @@ On my profile you can find:
 
 <!-- Languages and frameworks I'm familiar and learning: -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajws-gh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
