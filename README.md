@@ -12,7 +12,7 @@ Hope you find this interesting 🎷
 <br><br>
 
 ## Connect with me 📫
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&logoColor=white&style=plastic" height="30" style="vertical-align:top; margin:4px">](https://www.linkedin.com/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin&logoColor=white&style=plastic" height="30" style="vertical-align:top; margin:4px">](https://www.linkedin.com/in/adam-jacek-%C5%9Bliwa/)
 <a href="mailto:ajw.sliwa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f2f2f2?logo=gmail&logoColor=ffed66&style=plastic" height="30" style="vertical-align:top; margin:4px"></a>
 <br><br>
 
