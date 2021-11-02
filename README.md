@@ -21,6 +21,7 @@ Hope you find this interesting 🎷
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=yellow&style=plastic" alt="Python" height="30" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white&style=plastic" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/-HTML-yellow?logo=html5&logoColor=white&style=plastic" alt="HTML" height="30" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/-CSS-red?logo=CSS3&logoColor=black&style=plastic" alt="HTML" height="30" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/-Pandas-white?logo=pandas&logoColor=darkblue&style=plastic" alt="Flask" height="30" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/-Pygame-yellow?logo=python&logoColor=white&style=plastic" alt="Pygame" height="30" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/-Django-grey?logo=django&logoColor=green&style=plastic" alt="Django" height="30" style="vertical-align:top; margin:4px">
